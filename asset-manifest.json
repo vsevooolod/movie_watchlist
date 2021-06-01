@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie_watchlist/static/css/main.7da3b425.chunk.css",
+    "main.js": "/movie_watchlist/static/js/main.ac6b13a8.chunk.js",
+    "main.js.map": "/movie_watchlist/static/js/main.ac6b13a8.chunk.js.map",
+    "runtime-main.js": "/movie_watchlist/static/js/runtime-main.196e599b.js",
+    "runtime-main.js.map": "/movie_watchlist/static/js/runtime-main.196e599b.js.map",
+    "static/js/2.7f7b1216.chunk.js": "/movie_watchlist/static/js/2.7f7b1216.chunk.js",
+    "static/js/2.7f7b1216.chunk.js.map": "/movie_watchlist/static/js/2.7f7b1216.chunk.js.map",
+    "static/js/3.3e9c4a1a.chunk.js": "/movie_watchlist/static/js/3.3e9c4a1a.chunk.js",
+    "static/js/3.3e9c4a1a.chunk.js.map": "/movie_watchlist/static/js/3.3e9c4a1a.chunk.js.map",
+    "index.html": "/movie_watchlist/index.html",
+    "static/css/main.7da3b425.chunk.css.map": "/movie_watchlist/static/css/main.7da3b425.chunk.css.map",
+    "static/js/2.7f7b1216.chunk.js.LICENSE.txt": "/movie_watchlist/static/js/2.7f7b1216.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/movie_watchlist/static/media/fa-solid-900.a940d584.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.196e599b.js",
+    "static/js/2.7f7b1216.chunk.js",
+    "static/css/main.7da3b425.chunk.css",
+    "static/js/main.ac6b13a8.chunk.js"
+  ]
+}
